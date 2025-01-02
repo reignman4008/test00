@@ -1,0 +1,6 @@
+blobstorage:
+  cadena-conexion: MiAplicacion
+datapower:
+  token-url: https://api.restful-api.dev/objects
+  service-url: https://api.restful-api.dev/objects?id=
+  otro: otro
